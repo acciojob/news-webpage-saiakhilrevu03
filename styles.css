@@ -7,9 +7,9 @@ header{
 	background-color : #011e29;
 	height:70px;
 	width:100vw;
+	text-align:center;
 	display:flex;
 	justify-content:center;
-	align-items:center;
 }
 h2{
 	color:#fff;
@@ -42,13 +42,10 @@ h3{
 	padding:10px 20px;
 }
 .pictorial-news-section{
+	text-align:center;
 	height:500px;
 	width:300px;
 	background-color:#fff;
-	display:flex;
-	flex-direction:column;
-	justify-content:center;
-	align-items:center;
 }
 img{
 	height:150px;
